@@ -41,10 +41,6 @@ bash <(curl -s https://raw.githubusercontent.com/ufavision/delete-unused-theme/m
 
 ---
 
-
-
----
-
 ## ตัวอย่าง Output
 
 ```
