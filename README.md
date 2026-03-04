@@ -24,10 +24,11 @@
 > ต้องการเพิ่ม/ลด Theme ให้แก้ตัวแปร `DELETE_THEMES` และ `KEEP_THEMES` ในไฟล์สคริปต์
 
 ## คำสั่งในการัน
+---
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/ufavision/delete-unused-theme/main/delete-unused-themes.sh)
 ```
-
+---
 ## ข้อกำหนด
 
 | รายการ | รายละเอียด |
