@@ -260,13 +260,3 @@ if [ -f "$RESULT_DIR/active_theme_sites.txt" ]; then
     log "======================================"
 fi
 ```
-
----
-
-## Step by Step
-
----
-
-## STEP 1: สร้างไฟล์บน GitHub
-```
-https://github.com/ufavision/server-scripts
