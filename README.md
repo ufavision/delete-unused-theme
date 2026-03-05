@@ -26,7 +26,7 @@
 ## คำสั่งในการัน
 ---
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/ufavision/delete-unused-theme/main/delete-unused-themes.sh)
+bash <(curl -s https://raw.githubusercontent.com/AnonymousVS/delete-unused-theme/main/delete-unused-themes.sh)
 ```
 ---
 ## ข้อกำหนด
